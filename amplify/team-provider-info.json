@@ -1,15 +1,28 @@
 {
+  "devh": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyhomes-devh-230906-authRole",
+      "UnauthRoleArn": "arn:aws:iam::472410834252:role/amplify-amplifyhomes-devh-230906-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::472410834252:role/amplify-amplifyhomes-devh-230906-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-amplifyhomes-devh-230906-deployment",
+      "UnauthRoleName": "amplify-amplifyhomes-devh-230906-unauthRole",
+      "StackName": "amplify-amplifyhomes-devh-230906",
+      "StackId": "arn:aws:cloudformation:us-west-1:472410834252:stack/amplify-amplifyhomes-devh-230906/20a8d370-7fc6-11ec-aca4-02afb88b65e5",
+      "AmplifyAppId": "dx636bqw2xzso"
+    }
+  },
   "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplifyhomes-staging-40507-authRole",
-      "UnauthRoleArn": "arn:aws:iam::691460774223:role/amplify-amplifyhomes-staging-40507-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::691460774223:role/amplify-amplifyhomes-staging-40507-authRole",
-      "Region": "eu-west-2",
-      "DeploymentBucketName": "amplify-amplifyhomes-staging-40507-deployment",
-      "UnauthRoleName": "amplify-amplifyhomes-staging-40507-unauthRole",
-      "StackName": "amplify-amplifyhomes-staging-40507",
-      "StackId": "arn:aws:cloudformation:eu-west-2:691460774223:stack/amplify-amplifyhomes-staging-40507/0966a520-5325-11ec-b367-027cd13ae230",
-      "AmplifyAppId": "dafvyl12im7ac"
+      "AuthRoleName": "amplify-amplify9a9919ae331d4-staging-230614-authRole",
+      "UnauthRoleArn": "arn:aws:iam::472410834252:role/amplify-amplify9a9919ae331d4-staging-230614-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::472410834252:role/amplify-amplify9a9919ae331d4-staging-230614-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-amplify9a9919ae331d4-staging-230614-deployment",
+      "UnauthRoleName": "amplify-amplify9a9919ae331d4-staging-230614-unauthRole",
+      "StackName": "amplify-amplify9a9919ae331d4-staging-230614",
+      "StackId": "arn:aws:cloudformation:us-west-1:472410834252:stack/amplify-amplify9a9919ae331d4-staging-230614/b9f24530-7fc5-11ec-8ffe-06b203b240a1",
+      "AmplifyAppId": "dx636bqw2xzso"
     }
   }
 }
